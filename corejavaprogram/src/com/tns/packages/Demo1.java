@@ -8,7 +8,7 @@ public class Demo1 {
 		
 		Publicexample u=new Publicexample();
 		
-		System.out.println(u.a));
+		System.out.println(u.a);
 		System.out.println(u.f);
 	}
 
